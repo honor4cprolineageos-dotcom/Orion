@@ -1,0 +1,11 @@
+{
+  "keys": [
+    "ORION-ABCD-1234-EFGH",
+    "ORION-WXYZ-5678-IJKL",
+    "ORION-MNOP-9012-QRST"
+  ],
+  "settings": {
+    "version": "4.9.5",
+    "expires": "2026-07-01"
+  }
+}
